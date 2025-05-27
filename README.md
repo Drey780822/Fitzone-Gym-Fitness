@@ -21,6 +21,12 @@ Welcome to the **FitZone Gym** website — a modern and responsive landing page 
 - CSS3  
 - PHP (for routing and backend readiness)  
 - SQL (planned for user login and data storage)
+---
+
+## 🌐 FitZone Gym Live Site
+
+Live site: [FitZone Gym](https://fitzone-gym-fitness.free.nf/)
+GitHub Pages: [https://your-username.github.io/fitzone-gym/](https://your-username.github.io/fitzone-gym/)
 
 ---
 
@@ -70,13 +76,6 @@ C:\xampp\htdocs\Fitzone-gym-fitness\
 http://localhost/Fitzone-gym-fitness/index.php
 
 You should now see your full website running with PHP support.
-
----
-
-## 🌐 Live Demo
-
-If hosted on a PHP-capable server, this project will run seamlessly.  
-Currently, GitHub Pages **does not support PHP**, so host it using **XAMPP** or a free PHP host like [000webhost](https://www.000webhost.com/).
 
 ---
 
