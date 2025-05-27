@@ -17,4 +17,4 @@ Welcome to the **FitZone Gym** website – a modern and responsive gym landing p
 - SQL
 # FitZone Gym Website
 Live site: [FitZone Gym](https://fitzone-gym-fitness.free.nf/)
-Hosted on GitHub Pages: [GitHub Pages](https://your-username.github.io/fitzone-gym/)
+Hosted on GitHub Pages: [GitHub Pages](https://drey780822.github.io/Fitzone-Gym-Fitness/)
