@@ -1,0 +1,3 @@
+[13-May-2025 19:02:11 Europe/Berlin] PHP Warning:  session_set_cookie_params(): Session cookie parameters cannot be changed when a session is active in C:\xampp\htdocs\Fitzone Gym\admin\login.php on line 12
+[13-May-2025 19:02:13 Europe/Berlin] PHP Warning:  session_set_cookie_params(): Session cookie parameters cannot be changed when a session is active in C:\xampp\htdocs\Fitzone Gym\admin\login.php on line 12
+[13-May-2025 19:02:24 Europe/Berlin] PHP Warning:  session_set_cookie_params(): Session cookie parameters cannot be changed when a session is active in C:\xampp\htdocs\Fitzone Gym\admin\login.php on line 12
