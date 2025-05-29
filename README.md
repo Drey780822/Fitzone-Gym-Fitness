@@ -4,7 +4,6 @@ Welcome to the **FitZone Gym** website — a modern and responsive landing page 
 
 > 📚 **This project was created as part of the Software Project module at Tshwane University of Technology in 2025.**
 
----
 
 ## 🚀 Features
 
@@ -15,7 +14,6 @@ Welcome to the **FitZone Gym** website — a modern and responsive landing page 
 - PHP-ready for backend development  
 - Basic SQL structure for integration  
 
----
 
 ## 🛠️ Technologies Used
 
@@ -24,19 +22,16 @@ Welcome to the **FitZone Gym** website — a modern and responsive landing page 
 - PHP (for routing and backend readiness)  
 - SQL (planned for user login and data storage)  
 
----
 
 ## 🌐 FitZone Gym Live Site
 
 Live site: [FitZone Gym](https://fitzone-gym-fitness.free.nf/)
 
----
 
 ## 🙌 Contributing
 
 Feel free to fork, improve, or build upon this project. PRs are welcome!
 
----
 
 ## 📩 Contact
 
